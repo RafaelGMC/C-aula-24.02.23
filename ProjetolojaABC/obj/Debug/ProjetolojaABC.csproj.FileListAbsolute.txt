@@ -1,0 +1,10 @@
+C:\Users\Laboratorio-Info\source\repos\EmpresaABC\ProjetolojaABC\bin\Debug\ProjetolojaABC.exe.config
+C:\Users\Laboratorio-Info\source\repos\EmpresaABC\ProjetolojaABC\bin\Debug\ProjetolojaABC.exe
+C:\Users\Laboratorio-Info\source\repos\EmpresaABC\ProjetolojaABC\bin\Debug\ProjetolojaABC.pdb
+C:\Users\Laboratorio-Info\source\repos\EmpresaABC\ProjetolojaABC\obj\Debug\ProjetolojaABC.csproj.AssemblyReference.cache
+C:\Users\Laboratorio-Info\source\repos\EmpresaABC\ProjetolojaABC\obj\Debug\ProjetolojaABC.frmSplash.resources
+C:\Users\Laboratorio-Info\source\repos\EmpresaABC\ProjetolojaABC\obj\Debug\ProjetolojaABC.Properties.Resources.resources
+C:\Users\Laboratorio-Info\source\repos\EmpresaABC\ProjetolojaABC\obj\Debug\ProjetolojaABC.csproj.GenerateResource.cache
+C:\Users\Laboratorio-Info\source\repos\EmpresaABC\ProjetolojaABC\obj\Debug\ProjetolojaABC.csproj.CoreCompileInputs.cache
+C:\Users\Laboratorio-Info\source\repos\EmpresaABC\ProjetolojaABC\obj\Debug\ProjetolojaABC.exe
+C:\Users\Laboratorio-Info\source\repos\EmpresaABC\ProjetolojaABC\obj\Debug\ProjetolojaABC.pdb
